@@ -1,0 +1,2 @@
+# Users are Programmers
+POODL users are programmers. Using POODL means making blocks and connecting them--and that's what POODL programmers do. The types of connections and blocks may differ between "users" and "programmers", but the actions are the same.

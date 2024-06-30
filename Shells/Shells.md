@@ -1,0 +1,14 @@
+# Shells
+A shell is a user-interface for interacting with POODL. A few types of shells are listed below:
+
+## Command-Line Shells
+These shells are similar to BASH, TCSH, etc. They are designed for text-only terminal with the keyboard as the input device.
+
+## 2D Graphical Shells
+These shells give a graphical 2D representation of the blocks and connections as squares and connecting lines. They are designed for a graphical display with any combination of a keyboard, mouse, or touchscreen for interactivly connecting blocks together.
+
+## 3D Graphical Shells
+3D graphical shells may display onto a 2D screen or onto a VR or AR device. The latter two are the more useful option for 3D shells. The strong point of 3D shells is their ability to arrange blocks uniquely in 3D space. We live in a 3D world and it's easy for us to remember things in the 3D world. Most people can memorize 1D sequences such as a 10-digit telephone number. But beyond 10 digits, it becomes difficult. However, given a 2D map, most poeple can memorize the names of all the states or provinces in a country. Then given 3D space, people can memorize things like their grandfather's pocket watch is in the bottom drawer of the bedside stand to the right of bed in the master bedroom on the second floor of their house on 35th Ave in Pleasantville OH, in the USA on planet Earth. Object-oriented programming makes it easier for the programmer to organize their thooghts into logical groups, but the code is still in a 1D list on a 2D screen. POODL is at least 2D by nature with its blocks and connections, and can be 3D with the addition of metadata that arranges the blocks in 3D space. Furthermore, it's acceptable and even desired to annotate blocks with unique visual representations and decorations. These also reside in the metadata. Just as our own world is made of heirachical space, so is POODL. We can easily recognize an recall a vast amount of information about our 3D world. Users should be able to do the same with the programs they write in POODL. This will make it far easier for them to think about their entire program and navigate through it by memory.
+
+### BMI / BCI
+A Brain Machine Interface or Brain Computer Interface may be essential for those who do not use their hands or fingers to manipulate blocks and connections in a 3D shell. Just as the user issues commands in the Command-Line Shell, the user uses the Brain Computer Interface to manipulate blocks and connections. The number of commands is very small and this type of control is possible with the Brain Computer Interfaces being developed today. Combined with real-time 3D feedback a user with a Brain Computer Interfaces could program in POODL very rapidly.
